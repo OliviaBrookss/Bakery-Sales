@@ -1,0 +1,23 @@
+ProductID,ProductName,Category,Price
+PD1,Chocolate Cake,Cupcakes,2.5
+PD2,Vanilla Cupcake,Cupcakes,2.4
+PD3,Red Velvet Cupcake,Cupcakes,2.7
+PD4,Matcha Cupcake,Cupcakes,2.8
+PD5,Caramel Custard,Desserts,3.2
+PD6,Strawberry Mousse,Desserts,3.5
+PD7,Chocolate Lava Cake,Desserts,4
+PD8,Lemon Tart,Desserts,3.8
+PD9,Butter Croissant,Pastry,2.8
+PD10,Almond Danish,Pastry,3
+PD11,Apple Turnover,Pastry,3.2
+PD12,Pain au Chocolat,Pastry,3.1
+PD13,Cinnamon Roll,Pastry,3
+PD14,Whole Wheat Bread,Bread,2.6
+PD15,Sourdough Loaf,Bread,3.4
+PD16,Brioche Bun,Bread,2.9
+PD17,Classic Bagel,Bread,2.5
+PD18,Iced Latte,Beverage,3.5
+PD19,Hot Chocolate,Beverage,3.3
+PD20,Mint Herbal Tea,Beverage,2.7
+PD21,Vanilla Latte,Beverage,3.6
+PD22,Iced Mocha,Beverage,3.8
